@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
